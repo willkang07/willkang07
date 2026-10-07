@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey, I'm William👋 I'm from LA, heading to college to study Math was a CS minor. I love messy, real world data, and building anything that can help people.
+- 🌱 I’m currently diving into machine learning and compuuter science.
 
 <!--
 **willkang07/willkang07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
